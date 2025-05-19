@@ -11,8 +11,8 @@ A non-custodial wallet with on/off-ramp functionality using Ramp Network.
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/vastlink/vastlink-wallet.git
-   cd vastlink-wallet
+   git clone https://github.com/think4tomorrow/vast-ramp
+   cd vastlink-ramp
    ```
 
 2. Set up frontend:
@@ -51,4 +51,4 @@ A non-custodial wallet with on/off-ramp functionality using Ramp Network.
 - `docs/evaluation-report.md`: Ramp vs. MoonPay.
 - `docs/test-results.md`: Test outcomes.
 
-For support, contact support@vastwallet.j-labs.xyz.
+For support, contact for2morrowtech@gmail.com
